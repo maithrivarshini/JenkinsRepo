@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: Maithri
+Build-Jdk: 11.0.10
+Implementation-Title: jenkins - UI content
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.mindtree
+Content-Package-Roots: /conf/jenkins,/content/dam/jenkins,/content/jenki
+ ns
+Content-Package-Description: UI content package for jenkins
+Content-Package-Id: jenkins:jenkins.ui.content:1.0
+Content-Package-Type: content
+

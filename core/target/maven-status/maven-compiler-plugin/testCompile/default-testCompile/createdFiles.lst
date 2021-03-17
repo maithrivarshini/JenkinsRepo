@@ -1,0 +1,5 @@
+jenkins\core\models\HelloWorldModelTest.class
+jenkins\core\filters\LoggingFilterTest.class
+jenkins\core\schedulers\SimpleScheduledTaskTest.class
+jenkins\core\listeners\SimpleResourceListenerTest.class
+jenkins\core\servlets\SimpleServletTest.class
